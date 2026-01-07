@@ -30,17 +30,16 @@
 
 <br><br><br><br>
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center">🌸 My Coding Journey 🌸</h2>
 <br>
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Luvu182&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Luvu182&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Luvu182&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luvu182&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 <h2 align="center">⚡ Tech Stack ⚡</h2>
