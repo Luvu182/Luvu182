@@ -17,29 +17,29 @@
 <div align="center">
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
 
-  - 🔭 I'm currently working on **PetFinder Project**
-  
-  - 🌸 Learning **React, Node.js, TypeScript**
-  
-  - 🎮 Ask me about **Anime, Manga, Gaming**
-  
-  - ⚡ Fun fact: **I code better while listening to anime OSTs**
-  
-  - 🌟 Favorite Anime: **Attack on Titan / One Piece**
+🔭 I'm currently working on **PetFinder Project**
+
+🌸 Learning **React, Node.js, TypeScript**
+
+🎮 Ask me about **Anime, Manga, Gaming**
+
+⚡ Fun fact: **I code better while listening to anime OSTs**
+
+🌟 Favorite Anime: **Attack on Titan / One Piece**
 </div>
 
 <br><br><br><br>
 
-<h2 align="center">🌸 My Coding Journey 🌸</h2>
+<h2 align="center">🌸 Currently Vibing To 🌸</h2>
 <br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luvu182&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31a4s6lkixjorxo5otcsr5j5nlxy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img width="500" src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
 
 <h2 align="center">⚡ Tech Stack ⚡</h2>
