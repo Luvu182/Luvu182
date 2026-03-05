@@ -16,9 +16,9 @@
 <br>
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
 
-🔭 I'm currently working on **PetFinder Project**
+🔭 I'm currently working on **[GoClaw](https://github.com/Luvu182/goclaw)** — AI Agent Gateway
 
-🌸 Learning **React, Node.js, TypeScript**
+🌸 Learning **Go, React, TypeScript, AI/LLM Integration**
 
 🎮 Ask me about **Anime, Manga, Gaming**
 
@@ -43,7 +43,7 @@
 <h2 align="center">⚡ Tech Stack ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=go,python,typescript,react,nodejs,tailwind,postgres,docker,git&perline=9" />
 </div>
 
 <br>
@@ -51,11 +51,11 @@
 <h2 align="center">📫 Connect With Me 📫</h2>
 <br>
 <div align="center">
-  <a href="https://twitter.com/luvu182">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/luanvu-marketing/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="mailto:luanvuseo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -67,8 +67,12 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luvu182/Luvu182/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luvu182/Luvu182/output/github-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Luvu182/Luvu182/output/github-snake.svg" />
+  </picture>
+
   <br><br><br>
 </div>
 
